@@ -1,6 +1,6 @@
 import Footer from "./Footer/Footer";
 import Navbar from "./Navbar/Navbar";
-import About from "./pages/About";
+// import About from "./pages/About";
 import Home from "./pages/Home";
 
 function App() {
