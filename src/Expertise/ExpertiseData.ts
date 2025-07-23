@@ -6,7 +6,7 @@ import cardImg5 from "../assets/ExpertiseImg/cardImg (5).webp";
 import cardImg6 from "../assets/ExpertiseImg/cardImg (6).webp";
 import cardImg7 from "../assets/ExpertiseImg/cardImg (7).webp";
 import cardImg8 from "../assets/ExpertiseImg/cardImg (8).webp";
-import cardImg9 from "../assets/ExpertiseImg/cardImg (9).webp";
+// import cardImg9 from "../assets/ExpertiseImg/cardImg (9).webp";
 interface listItems {
   listItem: string;
 }
